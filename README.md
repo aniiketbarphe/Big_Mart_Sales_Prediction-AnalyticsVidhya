@@ -1,3 +1,5 @@
+![Intro_Image - Copy](https://user-images.githubusercontent.com/84449238/175822780-45506b6a-d57d-4325-b9c5-ae73ce48f87c.JPG)
+
 # Big_Mart_Sales_Prediction-AnalyticsVidhya
 Sales Prediction for Big Mart Outlets
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
