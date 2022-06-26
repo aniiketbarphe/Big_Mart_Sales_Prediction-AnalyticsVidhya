@@ -1,4 +1,4 @@
-![Intro_Image - Copy](https://user-images.githubusercontent.com/84449238/175822780-45506b6a-d57d-4325-b9c5-ae73ce48f87c.JPG)
+![Intro_Image - Copy](https://user-images.githubusercontent.com/84449238/175822906-a11a98ec-4d7c-42c4-96ff-e25d406ddfce.JPG)
 
 # Big_Mart_Sales_Prediction-AnalyticsVidhya
 Sales Prediction for Big Mart Outlets
